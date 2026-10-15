@@ -112,3 +112,5 @@ fedora_43_43_x86_64_default.tar.xz
 fedora_43_43_x86_64_cloud.tar.xz
 fedora_44_44_x86_64_default.tar.xz
 fedora_44_44_x86_64_cloud.tar.xz
+rockylinux_10_10_x86_64_default.tar.xz
+rockylinux_10_10_x86_64_cloud.tar.xz
